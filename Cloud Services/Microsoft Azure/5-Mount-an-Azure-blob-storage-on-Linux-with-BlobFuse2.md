@@ -52,4 +52,9 @@ cd /mnt/myblob_blobfuse2
 mkdir test
 echo "hello world" > test/blob.txt
 ```
+9. To unmount the directory.
+```console
+sudo umount -l myblob_blobfuse2
+```
+
 * [Reference](https://unlimited.ethz.ch/display/itkb/Mount+an+Azure+blob+storage+on+Linux+with+BlobFuse2)

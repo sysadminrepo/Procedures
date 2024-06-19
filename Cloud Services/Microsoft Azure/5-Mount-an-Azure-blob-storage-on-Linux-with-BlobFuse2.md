@@ -17,7 +17,6 @@ sudo apt-get install blobfuse2
 3. Create a temporary directory for small cache
 ```console
 mkdir -p /tmp/blobfuse2_cache
-mkdir
 ```
 4. Download the sample configuration file for BlobFuse2 and use a text editor, e.g., emacs, to edit the file
 ```console

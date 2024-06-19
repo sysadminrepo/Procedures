@@ -5,8 +5,8 @@ description: Learn how to configure P2S gateway settings and Microsoft Entra ID 
 author: cherylmc
 ms.service: vpn-gateway
 ms.topic: how-to
-ms.date: 05/28/2024
-ms.author: cherylmc
+ms.date: 06/19/2024
+ms.author: Douglas Gómez
 ---
 * [Azure VPN Client for Linux](point-to-site-entra-vpn-client-linux.md)
 * [Azure VPN Client for Windows](point-to-site-entra-vpn-client-windows.md)

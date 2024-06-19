@@ -6,9 +6,9 @@
 You may need to temporarily or permanently increase this value. You should consult with a qualified systems administrator before making these changes.
 
 1. Check how many active connections are being tracked.
-
+```console
 cat /proc/sys/net/netfilter/nf_conntrack_count
-
+```
 2. Check the current max value of nf_conntrack
 
 cat /proc/sys/net/netfilter/nf_conntrack_max

@@ -57,4 +57,5 @@ echo "hello world" > test/blob.txt
 sudo umount -l myblob_blobfuse2
 ```
 
-* [Reference](https://unlimited.ethz.ch/display/itkb/Mount+an+Azure+blob+storage+on+Linux+with+BlobFuse2)
+**References:**  
+https://unlimited.ethz.ch/display/itkb/Mount+an+Azure+blob+storage+on+Linux+with+BlobFuse2

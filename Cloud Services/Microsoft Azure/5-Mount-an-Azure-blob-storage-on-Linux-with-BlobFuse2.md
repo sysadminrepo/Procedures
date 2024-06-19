@@ -52,4 +52,4 @@ cd /mnt/myblob_blobfuse2
 mkdir test
 echo "hello world" > test/blob.txt
 ```
-* [Azure VPN Client for Linux](point-to-site-entra-vpn-client-linux.md)
+* [Reference](https://unlimited.ethz.ch/display/itkb/Mount+an+Azure+blob+storage+on+Linux+with+BlobFuse2)

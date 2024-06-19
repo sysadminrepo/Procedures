@@ -2,7 +2,7 @@
 
 ## On your Linux machine
 
-1. Install the AZNFS Mount Helper package. [See more details here](https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-support-how-to#step-5-install-the-aznfs-mount-helper-package)
+1. Install the AZNFS Mount Helper package. [(See more details here)](https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-support-how-to#step-5-install-the-aznfs-mount-helper-package)
 
 ```console
 wget -O - -q https://github.com/Azure/AZNFS-mount/releases/latest/download/aznfs_install.sh | sudo bash

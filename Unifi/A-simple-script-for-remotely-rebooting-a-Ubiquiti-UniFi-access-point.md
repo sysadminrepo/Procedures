@@ -4,12 +4,14 @@
 which should be available via dnf, yum, or apt on your *nix distro.
 
 # USER-CONFIGURABLE SETTINGS
-username=albatros
-password=4lqu!m!574
+```console
+username=<USERNAME>
+password=<PASSWORD>
 known_hosts_file=/dev/null
-uap_list=( 192.168.253.200 192.168.254.66 192.168.254.56 192.168.254.57 )
-
+uap_list=( 192.168.2.200 192.168.2.66 192.168.2.56 192.168.2.57 )
+```
 # SHOULDN'T NEED TO CHANGE ANYTHING PAST HERE
+```console
 for i in "${uap_list[@]}"
 do
 
@@ -21,3 +23,4 @@ do
         fi
 done
 exit 0
+```

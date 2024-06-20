@@ -42,6 +42,4 @@ Click Connect
 14. Click on the Blob Containers to see the content folder.
 15. Double click on the content folder to see the data.
 
-![](https://drive.google.com/file/d/1kWD6sDXOFkM4baLeR3GaLoo6_nOBinZo/view?usp=drive_link)
-
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/3.7-container.png)

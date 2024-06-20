@@ -1,6 +1,6 @@
 # A simple script for remotely rebooting a Ubiquiti UniFi access point
 
-You can download the script [here](https://github.com/sysadminrepo/Procedures/edit/main/Cloud%20Services/Microsoft%20Azure/4-Mount-an-Azure-blob-storage-on-Linux-using-NFSv3-protocol.md)
+You can download the script [here](https://github.com/sysadminrepo/Procedures/blob/main/Unifi/Assets/uap_reboot.sh)
 
 ## Requires bash and sshpass (https://sourceforge.net/projects/sshpass/)
 which should be available via dnf, yum, or apt on your *nix distro.

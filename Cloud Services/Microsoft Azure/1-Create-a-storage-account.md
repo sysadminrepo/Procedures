@@ -1,11 +1,11 @@
 # Create a storage account
 
 1. Log in with your Azure account (username@mydomain.com), credentials and OTP.
-Under Azure services, select Storage accounts. Or, type "Storage" in the search field, select Storage accounts under Services
+Under Azure services, select Storage accounts. Or, type "Storage" in the search field, select Storage accounts under Services.
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/1-storage-service.png)
 
-Click on + Create
+Click on + Create.
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/2-create_account.png)
 
@@ -21,11 +21,11 @@ Click on + Create
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/4-advanced_tab1.png)
 
-2. Under Blob storage, select Access tier (Hot or Cool)
+2. Under Blob storage, select Access tier (Hot or Cool).
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/5-advanced_tab_blobcooltier.png)
 
-3. For a blob storage which will be mounted on a local machine with NFSv3 protocol, enable hierarchical namespace and NFSv3
+3. For a blob storage which will be mounted on a local machine with NFSv3 protocol, enable hierarchical namespace and NFSv3.
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/6-advanced_tab_nfsv3.png)
 
@@ -36,18 +36,18 @@ Click on + Create
 
 2. If you have enabled NFSv3, the connectivity method must be set to "public endpoint (selected networks)" or "private endpoint":
 
-* Select Enable public access from selected virtual networks and IP addresses
-2.2 Select a virtual network in the drop down menu
+* Select Enable public access from selected virtual networks and IP addresses.
+* Select a virtual network in the drop down menu.
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/8-Screenshot-from-2024-04-05%2011-35-56.png)
 
-2.3 If none created yet, click on Create virtual network under the drop down menu
-2.4 Enter a name
-2.5 Select default address space and subnets
-2.6 Click OK
+* If none created yet, click on Create virtual network under the drop down menu.
+* Enter a name.
+* Select default address space and subnets.
+* Click OK.
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/9-create-virtual-network.png)
 
 ##Review + Create
-Review the settings
-Click Create
+* Review the settings.
+* Click Create.

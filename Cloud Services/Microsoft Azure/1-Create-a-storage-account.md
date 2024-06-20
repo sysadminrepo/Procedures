@@ -1,3 +1,11 @@
+---
+title: 'Create a Azure storage account'
+titleSuffix: Azure storage account
+description: Learn how to create Azure storage account.
+author: Douglas Gómez
+date: 06/20/2024
+---
+
 # Create a Azure storage account
 
 1. Log in with your Azure account (username@mydomain.com), credentials and OTP.

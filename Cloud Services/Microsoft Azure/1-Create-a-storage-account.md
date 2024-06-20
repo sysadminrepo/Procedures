@@ -36,7 +36,7 @@ Click on + Create
 
 2. If you have enabled NFSv3, the connectivity method must be set to "public endpoint (selected networks)" or "private endpoint":
 
-2.1 Select Enable public access from selected virtual networks and IP addresses
+* Select Enable public access from selected virtual networks and IP addresses
 2.2 Select a virtual network in the drop down menu
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/8-Screenshot-from-2024-04-05%2011-35-56.png)

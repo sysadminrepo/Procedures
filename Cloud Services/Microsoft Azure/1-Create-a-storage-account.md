@@ -48,6 +48,6 @@ Click on + Create.
 
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/9-create-virtual-network.png)
 
-##Review + Create
+## Review + Create
 * Review the settings.
 * Click Create.

@@ -7,7 +7,7 @@ date: 06/20/2024
 ---
 ## Access Azure Storage with Storage Explorer
 
-1. Download [Azure Storage Explorer.] (https://azure.microsoft.com/en-us/products/storage/storage-explorer) 
+1. Download [Azure Storage Explorer.](https://azure.microsoft.com/en-us/products/storage/storage-explorer) 
 2. Install Storage Explorer on your local computer.
 3. Connect to Azure Storage.
 

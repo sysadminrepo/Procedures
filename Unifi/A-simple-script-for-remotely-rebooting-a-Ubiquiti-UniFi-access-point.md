@@ -1,6 +1,6 @@
 # A simple script for remotely rebooting a Ubiquiti UniFi access point
 
-You can download the script [here](https://github.com/sysadminrepo/Procedures/blob/main/Unifi/Assets/uap_reboot.sh)
+You can download the script [here.](https://github.com/sysadminrepo/Procedures/blob/main/Unifi/Assets/uap_reboot.sh)
 
 ## Requires bash and sshpass (https://sourceforge.net/projects/sshpass/)
 which should be available via dnf, yum, or apt on your *nix distro.

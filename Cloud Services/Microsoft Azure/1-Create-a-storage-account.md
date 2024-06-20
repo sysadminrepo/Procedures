@@ -1,4 +1,4 @@
-# Create a storage account
+# Create a Azure storage account
 
 1. Log in with your Azure account (username@mydomain.com), credentials and OTP.
 Under Azure services, select Storage accounts. Or, type "Storage" in the search field, select Storage accounts under Services.

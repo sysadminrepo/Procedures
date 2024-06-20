@@ -1,3 +1,10 @@
+---
+title: 'Mount an Azure blob storage on Linux using NFSv3 protocol'
+titleSuffix: Azure blob storage
+description: Learn how to mount an Azure blob storage on Linux using NFSv3 protocol.
+author: Douglas Gómez
+date: 06/20/2024
+---
 # Mount an Azure blob storage on Linux using NFSv3 protocol
 
 ## On your Linux machine

@@ -10,4 +10,4 @@ Follow these steps to create a configuration file that can be used by the Office
 (https://drive.google.com/drive/folders/1KE2ZCau1nLGe2aTcEN_CdOMUW5uxp4g8?usp=sharing)
 
 
-![Example Image](https://drive.google.com/file/d/1JEWU6eLwtjkgaQTqoUgFckBEXGIJRDoS/view?usp=drive_link)
+![Example Image](https://drive.google.com/file/d/1JEWU6eLwtjkgaQTqoUgFckBEXGIJRDoS/view?usp=sharing)

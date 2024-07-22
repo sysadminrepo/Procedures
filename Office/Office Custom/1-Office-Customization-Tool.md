@@ -7,7 +7,5 @@ Follow these steps to create a configuration file that can be used by the Office
 ![](https://github.com/sysadminrepo/Procedures/blob/main/Office/Office%20Custom/Assets/1-office-customization-tool.png)
 
 
-(https://drive.google.com/file/d/1YX-q1NbihAz9SsWx_2w5i1ZswcQYkFvs/view?usp=drive_link)
+(https://drive.google.com/drive/folders/1KE2ZCau1nLGe2aTcEN_CdOMUW5uxp4g8?usp=sharing)
 
-Files
-![Office Deployment Tool](https://github.com/sysadminrepo/Procedures/blob/main/Office/Office%20Custom/Assets/Download/en-officedeploymenttool_17531-20046.exe)

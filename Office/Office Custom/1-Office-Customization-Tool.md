@@ -4,6 +4,6 @@ Follow these steps to create a configuration file that can be used by the Office
 
 1. Go to Office [(Customization Tool.)](https://config.office.com/deploymentsettings) 
 
-![](https://github.com/sysadminrepo/Procedures/blob/main/Cloud%20Services/Microsoft%20Azure/Assets/1-storage-service.png)
+![](https://github.com/sysadminrepo/Procedures/blob/main/Office/Office%20Custom/Assets/1-office-customization-tool.png)
 
 

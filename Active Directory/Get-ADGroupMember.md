@@ -1,8 +1,8 @@
-##Get-ADGroupMember
+## Get-ADGroupMember
 
 Gets the members of an Active Directory group.
 
-Description
+# Description
 The Get-ADGroupMember cmdlet gets the members of an Active Directory group. Members can be users, groups, and computers.
 
 Get-ADGroupMember -Identity Administrators
